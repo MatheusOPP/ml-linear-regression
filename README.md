@@ -1,2 +1,2 @@
-# ml-training
-Machine Learning Training
+# ml-regression
+Machine Learning - Regression
